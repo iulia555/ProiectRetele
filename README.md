@@ -4,7 +4,7 @@
 
 *TEHNOLOGIILE UTILIZATE:* <br />
 ֍ Limbajul de programare – Java <br />
-֍ Mediul de dezvoltare – Visual Studio Code <br />
+֍ Mediul de dezvoltare – IntelliJ IDEA <br />
 
 
 *CERINȚE:* <br />
