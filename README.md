@@ -2,6 +2,11 @@
 
 În cadrul disciplinei Rețele de calculatoare am realizat, în echipa formată din trei persoane, un proiect ce constă într-o aplicație de tip client-server, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
 
+*TEHNOLOGIILE UTILIZATE:* <br />
+֍ Limbajul de programare – Java <br />
+֍ Mediul de dezvoltare – Visual Studio Code <br />
+
+
 *CERINȚE:* <br />
 ֍	Server-ul are o listă de fișiere de configurare, fiecare fișier corespunzând unei distribuții a trei avioane pe o matrice de 10x10; <br />
 ֍	O configurație precizează distribuția a trei avioane sub forma: <br />
