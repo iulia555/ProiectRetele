@@ -8,8 +8,8 @@
 
 
 *CERINȚELE PROIECTULUI:* <br />
-֍	Server-ul are o listă de fișiere de configurare, fiecare fișier corespunzând unei distribuții a trei avioane pe o matrice de 10x10; <br />
-֍	O configurație precizează distribuția a trei avioane sub forma: <br />
+֍	server-ul are o listă de fișiere de configurare, fiecare fișier corespunzând unei distribuții a trei avioane pe o matrice de 10x10; <br />
+֍	o configurație precizează distribuția a trei avioane sub forma: <br />
 00A0000000 <br />
 1111100020 <br />
 0010002020 <br />
@@ -25,10 +25,10 @@ A - cap <br />
 11111 - aripi <br />
 1 - corp <br />
 111 - coadă <br />
-֍	Server-ul alege în mod aleator o configurație curentă; <br />
-֍	Clienții se conectează la server identificându-se printr-un nume unic; <br />
-֍	Un client poate trage pentru a doborî avioanele, indicând linia și coloana în care trage; <br />
-֍	Un avion este doborât atunci când se trage în capul lui; <br />
-֍	Server-ul îi vă raspunde cu 0, dacă niciun avion n-a fost atins, cu 1, dacă o parte a unui avion a fost atinsă, sau cu X, dacă avionul a fost atins în cap și doborât; <br />
-֍	Când un client a reușit să doboare toate avionale, server-ul notifică toți clienții cu numele acestuia și alege altă configurație curentă, jocul reluându-se. <br />
+֍	server-ul alege în mod aleator o configurație curentă; <br />
+֍	clienții se conectează la server identificându-se printr-un nume unic; <br />
+֍	un client poate trage pentru a doborî avioanele, indicând linia și coloana în care trage; <br />
+֍	un avion este doborât atunci când se trage în capul lui; <br />
+֍	server-ul îi vă raspunde cu 0, dacă niciun avion n-a fost atins, cu 1, dacă o parte a unui avion a fost atinsă, sau cu X, dacă avionul a fost atins în cap și doborât; <br />
+֍	când un client a reușit să doboare toate avionale, server-ul notifică toți clienții cu numele acestuia și alege altă configurație curentă, jocul reluându-se. <br />
 
